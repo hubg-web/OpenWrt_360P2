@@ -9,6 +9,10 @@
 #
 
 name: Build OpenWrt_360P2
+permissions:
+  actions: write
+  contents: write
+
 
 on:
   repository_dispatch:

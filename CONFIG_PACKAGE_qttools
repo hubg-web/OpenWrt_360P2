@@ -3598,10 +3598,10 @@ CONFIG_PACKAGE_libxtables=y
 #
 # Qt5
 #
-CONFIG_PACKAGE_qt5-core=y
-CONFIG_PACKAGE_qt5-network=y
-CONFIG_PACKAGE_qt5-sql=y
-CONFIG_PACKAGE_qt5-xml=y
+# CONFIG_PACKAGE_qt5-core is not set
+# CONFIG_PACKAGE_qt5-network is not set
+# CONFIG_PACKAGE_qt5-sql is not set
+# CONFIG_PACKAGE_qt5-xml is not set
 # end of Qt5
 
 #
